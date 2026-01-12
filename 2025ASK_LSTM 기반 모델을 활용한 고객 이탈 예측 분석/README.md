@@ -1,4 +1,4 @@
-# 2025ASK : LSTM 기반 고객 이탈 예측 분석  
+# 🛒 2025ASK : LSTM 기반 고객 이탈 예측 분석  
 (Customer Churn Prediction Analysis Using an LSTM-Based Model)
 
 본 연구는 전자상거래 고객 행동 데이터를 시계열 관점에서 분석하여  
